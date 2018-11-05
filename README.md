@@ -2,6 +2,4 @@
 Senior design project @ UMES.
 
 Contributors:
-Nathan Bane
-Chris Blanks
-Ryan Valente
+Nathan Bane, Chris Blanks, and Ryan Valente
