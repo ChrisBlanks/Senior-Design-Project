@@ -1,7 +1,0 @@
-ADMIN USER
-chris blanks
-admin admin
-REGULAR USER
-chris blanks
-Lei Zhang
-END
